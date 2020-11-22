@@ -1,0 +1,15 @@
+#include<stdio.h>        -
+     or                   |----> standard header files/ library files (stdio.h : standard input/output header file , mostly used as conio.h is old library)
+#include<conio.h>        -              
+ int main()     // anything you want to run comes within main and including main is neccerary and it has to be lowercase as C IS CASE SENSITIVE LANGUAGE.
+ {     //starting of program
+ 
+ // body of code
+ 
+ 
+ }    //closing of program
+ 
+ to put anything/description in program or line which you dont want to run in program put // as comment and it will not run that line(compiler ignores that line
+ //..........      : is used for single line comment
+ /*  .......  */ :  is used for multi line comment
+ here ........ represent any programming line or description
