@@ -74,7 +74,7 @@ There are different types of operators used in C.
  8. Ternary or conditional operators:->  (condition)?true expression: false expression 
                             example:
                                    (num%2==0)?printf("even"):printf("odd");
-                             If number enter will be divisible by 2 then result comes 1 (true) and prints even else prints odd
+                             If number enter will be divisible by 2 then result comes 1 (true) and prints even otherwise prints odd
                                 
                                                     
                                 
