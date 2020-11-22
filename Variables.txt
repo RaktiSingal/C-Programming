@@ -1,0 +1,23 @@
+Variable is an item whose value keeps on changing or a container in which we store value.
+It is a named memory location.All variables are created in RAM(Random Access Memory).
+  
+  RULES FOR NAMING A VARIABLES:-
+  
+1. It should start with an alphabet or underscore.
+2. It may consist of Alphabets (A-Z,a-z) , numbers(0-9) and underscore(_) as special character only.
+     example: roll_no 
+3. No space is allowed within a variable name.
+4. It is case sensitive.
+     example: Numm  and numm are different variables and are valid to use in one program.
+5. It can be maximum of 32 character long.
+6.Reserved word/keywords are not used as variable name.
+
+Constant:- The item whose value remain fixed.
+1.) Integer constant-   10,-20          (They are non-decimal values and can be negative)
+2.) Float constant-     6.25,-7.33      (They are decimal number and can be negative)
+3.)Character constant- 'A','#','%'      (They are always put in single quotes)
+4.)String constant-    "Rakti","Singal" (They are words put in double quotes )
+
+Reserved words or keywords:- Those words which are having a special meaning in C and there meaning cannot be re-defined.
+There are 32 reserved words in C language.
+       example:int , char, float, double, if, else, do, while, for ,etc...
