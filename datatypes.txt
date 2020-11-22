@@ -1,0 +1,35 @@
+The type of value which we can put in any variable. It specifies what maximum and minimum value can be given, what operation can be performed,what conditions can be applied.
+
+Primary datatypes:
+1. int:-
+       i) number without decimal places.
+       ii) The require two(in 32 bit machine) and four(in 64 bit machine).
+       iii) Range-> -32768 to 32767
+            Unsigned int range-> 0 to 65535(2 bytes)
+            long int range-> 2,147,483,648 to 2,147,483,647(4 bytes)
+        iv) Operations: +,-,*,/,%
+        
+2. float:-
+       i) Numbers with decimal places.
+       ii)They required 4 bytes in memory.
+       iii)They give result upto 6 decimal places.
+       iv)Range-> 3.4 X 10(-38)power to 3.4 X 10(-38)power
+       v)Operations: +,-,*,/
+       
+3. double or long float:-
+       i)Numbers with decimal places.
+       ii)They require 8 bytes in memory
+       iii)They give result upto 12 decimal places
+       iv)Range-> 1.7 X 10(-308)power to 1.7 X 10(-308)power
+       v)Operations->+,-,*,/
+       
+4. char:-
+      i)Any single character which may include alphabets(A-Z,a-z),numbers(0-9) and special characters
+      ii)They require 1 byte in memory.
+      iii)Operation->+,-
+      iv) Ranges
+                 A TO Z -> 65 TO 90
+                 a to z -> 97 to 122
+                 '0' to '9' ->48 to 57
+         ASCII :-> American Standard Code for International Interchange
+       
