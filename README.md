@@ -1,2 +1,2 @@
 # C-Programming
-All important C programs 
+Detailed C programming tutorial with all important programs and notes.
