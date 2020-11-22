@@ -1,0 +1,80 @@
+There are different types of operators used in C.
+1. Mathematical operator/Arthmetic :->   +(addition),-(subtraction),*(multiplication),/(division),%(modulus)
+            example:
+                    7/2 =3(Quotient)
+                     7%2 =1(Remainder)
+               
+2. Relational operators :->   > (greater than) , < (less than) , <= (less than and equal) , >= (greater than), != (not equal)  
+            example:
+                      a>=b (a is greather than or equal to b)
+                      
+3. Assignment Operator :->  =(equal)
+           example: 
+                   a=b(value of b to be put/store in a)
+                   
+4. Comparison operator :->  ==(equals)
+           example:
+                   a==b(return true/1 if a equals b or false/0 if a not equal to b)
+                   
+5. Logical operators :-> &&(AND),||(OR),!(NOT)
+           example:
+                  a    b    a&&b   a||b    !a    !b
+                  0    0      0     0       1     1
+                  0    1      0     1       1     0
+                  1    0      0     1       0     1
+                  1    1      1     1       0     0
+                  
+         && gives false when atleast one value is false and true when both true
+         || gives true when atleast one value true and false when both false
+         ! reverses the actual value 
+         
+6. Unary operators:-> ++(increment) , --(decrement)
+       These are of 2 types each based on where operation happens
+           ++(increment)
+           1. Pre increment :->When put infront of value and increases value by 1
+                          example:
+                                   if initial value of k is 10
+                                   ++k 
+                                   now k will have value 11
+           2. Post increment :->When put after value and increases value by 1
+                          example:
+                                   if initial value of k is 10
+                                   k++ 
+                                   now k will have value 10 and when used shows 11
+                                   
+ Difference in post and pre increment is whem we do pre increment the value changes instantly in variable but in post increment value changes when next time value is needed/used.
+  
+          --(decrement)
+            1. Pre decrement :->When put infront of value and decreases value by 1
+                          example:
+                                   if initial value of k is 10
+                                   --k 
+                                   now k will have value 9
+           2. Post decrement :->When put after value and decreases value by 1
+                          example:
+                                   if initial value of k is 10
+                                   k-- 
+                                   now k will have value 10 and when used shows 9
+                                   
+ Difference in post and pre decrement is whem we do pre decrement the value changes instantly in variable but in post decrement value changes when next time value is needed/used.
+    
+    
+ 7. Bitwise operators:->  &(and),|(or),~(complement),^(xor),>>(right shift),<<(left shift)
+                        They are operated bit by bit on a number.
+                          example:
+                                 a=5  0000000   00000101
+                                 b=6  0000000   00000110
+                                 a&b  0000000   00000100
+                                 a|b  0000000   00000111
+                                 a^b  0000000   00000011
+                                 ~a   1111111   11111010   reversing 1 to 0 and vice versa
+                                 a>>2 0000000   00000001    shifting 2 bits of a to right and adding 0 at empty places of left
+                                 a<<3 0000000   00101000    shifting 3 bits of a to left and adding 0 at empty places of right
+                                
+ 8. Ternary or conditional operators:->  (condition)?true expression: false expression 
+                            example:
+                                   (num%2==0)?printf("even"):printf("odd");
+                             If number enter will be divisible by 2 then result comes 1 (true) and prints even else prints odd
+                                
+                                                    
+                                
