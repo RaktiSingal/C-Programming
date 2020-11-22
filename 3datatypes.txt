@@ -1,4 +1,4 @@
-The type of value which we can put in any variable. It specifies what maximum and minimum value can be given, what operation can be performed,what conditions can be applied.
+ DATATYPES:- The type of value which we can put in any variable. It specifies what maximum and minimum value can be given, what operation can be performed,what conditions can be applied.
 
 Primary datatypes:
 1. int:-
