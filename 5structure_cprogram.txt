@@ -12,4 +12,4 @@
  to put anything/description in program or line which you dont want to run in program put // as comment and it will not run that line(compiler ignores that line
  //..........      : is used for single line comment
  /*  .......  */ :  is used for multi line comment
- here ........ represent any programming line or description
+ here ........ represent any programming line or description you want to give
