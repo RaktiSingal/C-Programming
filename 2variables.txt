@@ -13,10 +13,10 @@ It is a named memory location.All variables are created in RAM(Random Access Mem
 6.Reserved word/keywords are not used as variable name.
 
 Constant:- The item whose value remain fixed.
-1.) Integer constant-   10,-20          (They are non-decimal values and can be negative)
-2.) Float constant-     6.25,-7.33      (They are decimal number and can be negative)
-3.)Character constant- 'A','#','%'      (They are always put in single quotes)
-4.)String constant-    "Rakti","Singal" (They are words put in double quotes )
+1.) Integer constant-   10,-20           (They are non-decimal values and can be negative)
+2.) Float constant-     6.25,-7.33       (They are decimal number and can be negative)
+3.)Character constant-  'A','#','%'      (They are always put in single quotes)
+4.)String constant-     "Rakti","Singal" (They are words put in double quotes )
 
 Reserved words or keywords:- Those words which are having a special meaning in C and there meaning cannot be re-defined.
 There are 32 reserved words in C language.
