@@ -1,0 +1,23 @@
+Formatted Input/Output functions
+       /\
+      /  \
+  INPUT   OUTPUT
+    |       |
+    |       |
+ scanf()   printf()
+
+scanf() -> to take output from keyboard/what user enters(value)
+printf() -> to print output on moniter/what you want user to see
+
+FORMATS         DESCRIPTION
+%d               int              (sometimes %i is also used) difference is %d specifies signed decimal integer and %i only integer
+%u               unsigned int
+%ld              long int
+%f               float
+%lf              long float
+%c               char
+%s               string
+%x               hexadecimal number
+%o               octal number
+%e               exponential form
+%h               short int
