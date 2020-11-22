@@ -3,3 +3,4 @@ C language is called "Mother Language" because we can create all types of softwa
 History of C:
 In 1960's C was created at ATST Bell laboraties,USA. In 1969, Ken Thomson  created Unix, first multiuser Operating System. In 1972-1973 ,Dennis Ritchie created C language.
 He created C language in purpose of rewriting Unix.
+C IS CASE SENSITIVE LANGUAGE .
