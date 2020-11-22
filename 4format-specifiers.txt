@@ -7,7 +7,7 @@ Formatted Input/Output functions
  scanf()   printf()
 
 scanf() -> to take output from keyboard/what user enters(value)
-printf() -> to print output on moniter/what you want user to see
+printf() -> to print output on moniter/what you want user to see on moniter
 
 FORMATS         DESCRIPTION
 %d               int              (sometimes %i is also used) difference is %d specifies signed decimal integer and %i only integer
