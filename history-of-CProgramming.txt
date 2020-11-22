@@ -1,0 +1,5 @@
+C language is a middle level language because it has advantages of both high level and low level language.
+C language is called "Mother Language" because we can create all types of softwares from it.
+History of C:
+In 1960's C was created at ATST Bell laboraties,USA. In 1969, Ken Thomson  created Unix, first multiuser Operating System. In 1972-1973 ,Dennis Ritchie created C language.
+He created C language in purpose of rewriting Unix.
