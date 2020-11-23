@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main
+{
+int i,n;
+printf("Enter limit to which you want to print numbers:");
+scanf("%d",&n);
+for(i=0;i<n;i++)  
+{
+printf("\n %d",i);   
+}
+return 0;
+}
