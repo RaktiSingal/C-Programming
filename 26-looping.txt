@@ -1,0 +1,36 @@
+Looping: which are used to repeat statements. Loops are always finite
+
+Types of loops:->
+1. for loop
+2. while loop
+3. do while loop
+
+    1. for loop:->This loops is used when number of times body of loop is to be executed in pre-defined
+             Syntax:
+                     for
+                     {
+                     //body of for loop
+                     }
+    2. while loop:->while loop is used when number of times body of loop is to be executed is not known
+               Syntax:
+                       while(condition)
+                       {
+                       //body of loop
+                       }
+                   
+    3. do while loop:-> In do while loop condition is evaluated at end. Therefore ,body of loop is executed at least once.
+                Syntax:
+                         do
+                         {
+                         //body of loop
+                         }
+                         while(condition);
+                         
+                         
+                                    DIFFERENCE BETWEEN WHILE AND DO WHILE
+         
+                 while                                                                   do while
+    a. Condition is checked first                                                Condition is checked later on.
+    b. Control goes in loop when the condition is true.                          Control goes once in loop at first and comes out of loop if it gets false                      
+    c. Entry controlled loop                                                     Exit controlled loop
+   
