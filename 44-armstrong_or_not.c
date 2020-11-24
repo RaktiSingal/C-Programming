@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+int num,rem,sum=0,n;
 printf("Enter number to find its armstrong or not");
 scanf("%d",&num);
 n=num;
